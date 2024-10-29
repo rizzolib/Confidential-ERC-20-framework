@@ -25,7 +25,7 @@ The Confidential ERC-20 Framework empowers users to engage in secure and private
 
 ## More information
 
-If you need more technical support and development inquires, you can contact below.
+If you need more information and development inquires, you can contact below.
 
 Telegram: [@Becklix](https://t.me/@Becklix)
 
