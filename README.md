@@ -29,6 +29,6 @@ If you need more information and development inquires, you can contact below.
 
 X: [@james980114](https://x.com/james980114)
 
-Discord: [@Collins](https://discordapp.com/users/319834931578535937)
+Discord: [@Benix](https://discordapp.com/users/393598468653842432)
 
 Thanks.
