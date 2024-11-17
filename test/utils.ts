@@ -10,7 +10,7 @@ export const waitForBlock = (blockNumber: bigint | number) => {
       const intervalId = setInterval(async () => {
         try {
           const currentBlock = await ethers.provider.getBlockNumber();
-          if (BigInt(currentBlock) >= blockNumber) {
+          if (BigInt(currentBlock) >= blockNumber) { 
             clearInterval(intervalId);
             resolve(currentBlock);
           }
