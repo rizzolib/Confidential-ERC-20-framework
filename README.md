@@ -23,12 +23,4 @@ The Confidential ERC-20 Framework is designed for a variety of use cases, includ
 
 The Confidential ERC-20 Framework empowers users to engage in secure and private transactions on public blockchains, paving the way for innovative applications across multiple industries.
 
-## More information
-
-If you need more information and development inquires, you can contact below.
-
-X: [@james980114](https://x.com/james980114)
-
-Discord: [@Benix](https://discordapp.com/users/393598468653842432)
-
 Thanks.
